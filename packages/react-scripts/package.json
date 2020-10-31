@@ -1,6 +1,6 @@
 {
   "name": "cs-pxp-react-scripts",
-  "version": "3.4.4",
+  "version": "3.4.5",
   "description": "Contentserv PXP Configuration and scripts for Create React App. Added svg-transform-loader.",
   "repository": {
     "type": "git",
