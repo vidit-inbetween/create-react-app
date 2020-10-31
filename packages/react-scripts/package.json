@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "cs-pxp-react-scripts",
   "version": "3.4.4",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Contentserv PXP Configuration and scripts for Create React App. Added svg-transform-loader.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/vidit-inbetween/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -73,6 +73,7 @@
     "sass-loader": "8.0.2",
     "semver": "6.3.0",
     "style-loader": "0.23.1",
+    "svg-transform-loader": "2.0.13",
     "terser-webpack-plugin": "2.3.8",
     "ts-pnp": "1.1.6",
     "url-loader": "2.3.0",
